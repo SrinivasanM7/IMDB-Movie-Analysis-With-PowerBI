@@ -10,7 +10,7 @@ Linkedin : https://www.linkedin.com/in/srinivasan-m-754033bb/
 
 A potential problem to investigate could be: "What factors influence the success of a movie on IMDB?" Here, success can be defined by high IMDB ratings. The impact of this problem is significant for movie producers, directors, and investors who want to understand what makes a movie successful to make informed decisions in their future projects. Consider this as an open ended question and come up with more analysis points. Anyway, here are some of the analysis ideas given to you. 
 
-# **Insights**
+# **Insights :**
 
 ## 1. Genre Analysis
 
@@ -57,7 +57,7 @@ A potential problem to investigate could be: "What factors influence the success
   - Result: No significant relationship between high budget and gross profit margin, as shown in the scatter plot.
 
 
-# Report and Data Story:
+# Report and Data Story :
 
 ## Introduction
 Movies are more than just fun; they're a whole experience. Have you ever wondered what makes a movie really popular on IMDB? We're taking a deep dive into the data to figure out why some movies hit the jackpot while others flop, looking at things like the types of movies people love, the folks who make them, and even how much money they spend.
